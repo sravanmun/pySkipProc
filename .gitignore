@@ -1,0 +1,16 @@
+# ignore binarries
+__pychache__/
+.pyc
+
+
+# ignore data
+data/
+
+# ignore backup files
+*.swp
+~*
+*~
+
+# macos stuff
+.DS_Store
+.DS_Store?
