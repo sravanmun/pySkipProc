@@ -14,7 +14,7 @@ Options to do more stuff
         -h, --help   : tells user how to use function
         --avg        : geneartes an average fits file
         --rms        : generates an rms fits
-        --nroot      : do not generate a root file
+        --nroot      : don't generate a root file
         --outfile    : specify a root file name. Default name is the same as the 
 ```
 
